@@ -19,6 +19,10 @@ main{
     height: 100px;
 }
 
+.pe-3{
+    text-decoration: purple;
+}
+
 
 
 .checkbox__style{
@@ -39,4 +43,30 @@ caption {
 table td,
 table th {
     border: 3px solid #000000;
+}
+
+.card-title{
+    text-shadow: 1px 1px 2px black, 0 0 0.2em rgb(165, 32, 105);
+    color:white;
+}
+.card-text-date {
+    font-weight: 600;
+    text-shadow: 1px 1px 2px black, 0 0 0.2em rgb(70, 36, 116);
+    color:white;
+}
+
+.mb-0{
+    text-decoration: underline green;
+    color: green;
+}
+
+.btn-cards {
+    background-color: grey;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 0.25rem;
 }

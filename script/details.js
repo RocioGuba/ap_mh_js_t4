@@ -1,4 +1,4 @@
-getFetch();
+/*getFetch();
 async function getFetch() {
 
     viewSpiner(conteinerCardDetail);
@@ -16,4 +16,10 @@ async function getFetch() {
                 printDetail(eventoDetail, conteinerCardDetail, data);
 
             })
+}*/
+
+let idEvento = (location.search.split('?id='))[1]
+let evento = []
+async function getData(){
+    await fetch()
 }
