@@ -61,7 +61,7 @@ table th {
 }
 
 .btn-cards {
-    background-color: grey;
+    background-color: black;
     color: rgb(255, 255, 255);
     font-weight: 600;
     border-width: initial;
@@ -69,4 +69,8 @@ table th {
     border-color: initial;
     border-image: initial;
     border-radius: 0.25rem;
+}
+
+.table{
+    color: black;
 }
